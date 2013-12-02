@@ -12,5 +12,8 @@
     "test": "mocha test/*.js"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+     "mocha": "",
+     "should": ""
+  }
 }
